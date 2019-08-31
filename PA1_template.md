@@ -13,8 +13,6 @@ output:
 act<-read.csv("/Users/ankan/Documents/data/activity.csv", header=TRUE)
 ```
 
-ändra till act=read.csv('activity.csv', header=T) i git????
-
 ## What is mean total number of steps taken per day?
 
 #### Histogram of the total number of steps taken each day.

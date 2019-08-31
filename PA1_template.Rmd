@@ -9,7 +9,7 @@ output:
 ## Loading and preprocessing the data
 
 ```{r}
-act<-read.csv("activity.csv", header=TRUE)
+act<-read.csv("/Users/ankan/Documents/data/activity.csv", header=TRUE)
 ```
 
 ## What is mean total number of steps taken per day?
